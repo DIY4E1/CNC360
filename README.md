@@ -6,3 +6,7 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
+<p></p>
+<h3>Quantum Leaps have started</hr>
+<hr>
+<p></p>
