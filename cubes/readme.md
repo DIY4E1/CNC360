@@ -1,1 +1,1 @@
-# Why using QuantumCubes is the slightly better type 4 playing than throwing 2 dices?
+# Why using cubes is the better type 4 players than throwing dices?
