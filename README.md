@@ -6,7 +6,7 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
-<p>Conventional Chess notation is algebraic but not mathematically correct. So I've developed compliant rules for The PlaybookAI, which we'll explore in more depth. First, I want to explain the more understandable specifications.</p>
+<p>Conventional Chess notation is algebraic but not mathematically correct. So I've developed compliant rules for The PlaybookAI, which we'll explore in more depth. First, I want to explain the more understandable specifications.<br>For other board games, there are no notation rules at all, only text-based instructions, which are also very complex - with the consequence that one leaves it with the simpler rules or general types of play, which I think is a shame.</p>
 <h3>Quantum Leaps have started</h3>
 <hr>
 <p>Now we deal with which character (glyph) can be combined with other characters (glyphs), transformed and how it can be defeated; this applies to the starting line-up, the handicap game, the middle game and the endgame. From now on we are using QuantumCubes instead of multiple figures.</p>
