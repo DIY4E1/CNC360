@@ -6,7 +6,7 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <h4>a) Bird's eye view of  a full QuantumGrid</h4>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
 <h4>b) 3D perspective in UnityHub</h4>
-<img width="100%" src=""></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/Screenshot-3D%202022-03-26%2009.39.09%20pm.png"></img>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/Screenshot-3D%202022-03-26%2009.38.16%20pm.png"></img>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
