@@ -3,7 +3,11 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <h3>Big bang for the buck</h3>
 <hr>
 <p>The QuantumGrid (2048px) below integrates all mathematical notations and relevant marks (Go, Mill, Chess Docker). If we follow this, we can accommodate several players on one game board. By following specific manuals, we can even combine the most different Board Games with one another (Othello mixed with Checkers, Chess versus Checkers and so on).</p>
+<h4>a) Bird's eye view of  a full QuantumGrid</h4>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
+<h4>b) 3D perspective in UnityHub</h4>
+<img width="100%" src=""></img>
+<img width="100%" src=""></img>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
 <p>Conventional Chess notation is algebraic but not mathematically correct. So I've developed compliant rules for The PlaybookAI, which we'll explore in more depth. First, I want to explain the more understandable specifications. The playbook is easy to use, you note down moves, analyze the opponent's game during a training phase - which nobody talks about and is silent about - in order to then be able to use these moves in the current season/tournament; similar to the playbook in American Football.<br>For other board games, there are no notation rules at all, only text-based instructions, which are also very complex - with the consequence that one leaves it with the simpler rules or general types of play, which I think is a shame.</p>
