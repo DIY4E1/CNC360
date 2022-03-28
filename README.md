@@ -4,8 +4,8 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <hr>
 <p>The QuantumGrid (2048px) below integrates all mathematical notations and relevant marks (Go, Mill, Chess Docker). If we follow this, we can accommodate several players on one game board. By following specific manuals, we can even combine the most different Board Games with one another (Othello mixed with Checkers, Chess versus Checkers and so on). The 1st QuantumGrid below shows a full grid for Checkmaster where all Docker marks integrated. The 2nd shows the larges QuantumGrid for Gothello.</p>
 <div>
-<img width="45%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
-<img width="45%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Gothello.png"></img>
+<img width="50%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
+<img width="50%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Gothello.png"></img>
 </div>
 <h3>Bird's eye view in 3D (Unity)</h3>
 <hr>
