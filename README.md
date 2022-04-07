@@ -12,8 +12,7 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <h3>Bird's eye view in 3D (Unity)</h3>
 <hr>
 <div>
-<img width="33%" src=""></img>
-<img width="33%" src=""></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/Screenshot%202022-04-07%2011.12.56%20pm.png"></img>
 </div>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
