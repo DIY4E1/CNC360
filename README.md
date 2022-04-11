@@ -7,7 +7,7 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 <img width="47.5%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmaster.png"></img>
 <img width="47.5%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Gothello.png"></img>
 </div>
-<h3>Bird's eye view in 3D (Unity)</h3>
+<h3>Bird's eye view in 3D</h3>
 <hr>
 <div>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/Screenshot%202022-04-07%2011.12.56%20pm.png"></img>
