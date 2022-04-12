@@ -1,6 +1,6 @@
 # Why using cubes is the better type 4 players than throwing 'dices'?
 <div>
 <img width="30%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QuantumCube_ChessDocker_white.png"></img>
-<img width="30%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QuantumCube_ChessDocker_white.png"></img>
-<img width="30%" src=https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QuantumCube_ChessDocker_white.png"></img>
+<img width="30%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QuantumCube_Gothello_white.png"></img>
+<img width="30%" src=https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QuantumCube_Docker_white.png"></img>
 </div>
