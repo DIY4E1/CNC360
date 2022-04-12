@@ -9,9 +9,6 @@ A novel substitute for the gaming experience by using multi-player tokens (Quant
 </div>
 <h3>Bird's eye view in 3D</h3>
 <hr>
-<div>
-<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/Screenshot%202022-04-07%2011.12.56%20pm.png"></img>
-</div>
 <h3>Massively multilayer role-playing experiences</h3>
 <hr>
 <p>Conventional Chess notation is algebraic but not mathematically correct. So I've developed compliant rules for The PlaybookAI, which we'll explore in more depth. First, I want to explain the more understandable specifications. The playbook is easy to use, you note down moves, analyze the opponent's game during a training phase - which nobody talks about and is silent about - in order to then be able to use these moves in the current season/tournament; similar to the playbook in American Football.<br>For other board games, there are no notation rules at all, only text-based instructions, which are also very complex - with the consequence that one leaves it with the simpler rules or general types of play, which I think is a shame.</p>
