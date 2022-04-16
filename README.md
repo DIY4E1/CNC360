@@ -12,7 +12,10 @@ The 1st QuantumGrid above shows a full grid for Checkmaster where all Docker mar
 <img width="47.5%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkathon.png"></img>
 <img width="47.5%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Checkmates.png"></img>
 </div>
-The 5th QuantumGrid (8 x 8 or 9 x 9) is called Passthrough for Chess and Checkers. The placeholders are occupied by Memory Cards printed on both sides. If such fields are passed, then they are converted or reversed. The playing field changes as the game progresses. Character development is left to chance. A standard field can be passed in all directions and occupied in the middle, but only in one, two or three directions (mono, bisecting, trisecting) after the conversion. If a converted field is passed again, the rules can state whether it should rotate in 90° or be flipped once again.
+The 5th QuantumGrid (8 x 8 or 9 x 9) below is called Passthrough for Chess and maybe Checkers, too. The placeholders are occupied by Memory Cards printed on both sides. If such fields are passed, then they are converted or reversed. The playing field changes as the game progresses. Character development is left to chance. A standard field can be passed in all directions and occupied in the middle, but only in one, two or three directions (mono, bisecting, trisecting) after the conversion. If a converted field is passed again, the rules can state whether it should rotate in 90° or be flipped once again.
+<div>
+<img width="47.5%" src="https://github.com/scifiltr/QuantumGrid/blob/main/QuantumGrid_MultiLayer_Passthrough.png"></img>
+</div>
 <h3>Bird's eye view in 3D</h3>
 <hr>
 <h3>Massively multilayer role-playing experiences</h3>
