@@ -1,11 +1,7 @@
-# Put the strategies on Quards
-<h3>Play by Default and Simple Playbook</h>
-<p>
+# Put the strategies on Quard Decks (Simple Playbook)
+<p>Create the QuantumGrid with Memory Quards and its Layers (QML) first. Then Play by Default and use Quards as additional rules. The *.svg *.png files have a format of 4096x4096 with a resolution of 72dpi.</p>
 <div>
-<img width="100" src="https://github.com/scifiltr/QuantumGrid/blob/main/cards/0_quarddeck_temp_steam.png"></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cards/0_quarddeck_temp_steam.png"></img>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cards/1_quarddeck_temp_steam.png"></img>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cards/2_quarddeck_temp_steam.png"></img>
 </div></p>
-
-# Put the tiles on Memory Quards
-<h3>Create the Grid and Layers (QML)</h3>
