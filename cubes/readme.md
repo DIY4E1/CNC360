@@ -5,11 +5,15 @@
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-1.png"></img> 
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-2.png"></img>
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-3_gothello.png"></img>
+<img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-4-grid-1.png"></img>
+<img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-4-grid-2.png"></img>
 </div>
 <div>
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-1-bk.png"></img> 
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-2-bk.png"></img>
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-3-bk_gothello.png"></img>
+<img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-5-fractal-1.png"></img>
+<img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-5-fractal-2.png"></img>
 </div>
 <div>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QubeTemplates_BlackNWhite.png"></img>
