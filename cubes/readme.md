@@ -29,3 +29,7 @@
 <div>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QubeTemplates_BlackNWhite.png"></img>
 </div>
+<div>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-2D_ws_bk-1.png"></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-2D_ws_bk-2.png"></img>
+</div>
