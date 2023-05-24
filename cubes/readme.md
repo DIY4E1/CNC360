@@ -27,7 +27,8 @@
 <img width="25%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-5-fractal-2.png"></img>
 </div>
 <div>
-<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QubeTemplates_BlackNWhite.png"></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QubeTemplates_BlackNWhite-1.png"></img>
+<img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/QubeTemplates_BlackNWhite-2.png"></img>
 </div>
 <div>
 <img width="100%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-2D_ws_bk-1.png"></img>
