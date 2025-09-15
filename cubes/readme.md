@@ -1,5 +1,5 @@
 # Understanding the Mirrorverse while using Cubes (Qubes)
-<img width="50%" src="https://github.com/scifiltr/QuantumGrid/blob/main/cubes/Qube-d6-1-bk.png"></img> 
+<img width="50%" src="https://github.com/DIY4E1/CNC360/blob/main/cubes/Mirrorverse-qubes_A3.png"></img> 
 # Using Cubes (Qubes) as Figures (Checkers, Jetons, Tokens)
 <p>... instead of 'rolling' or 'throwing' Dices! These *.svg templates allow for the creation of the following dice types: D6. Generate a *.png file with 2048 x 2048 px (72 dpi) and upload it to Steam – Table Top Simulator. The Dice Template, as well as other modding tools, can be found on your computer.</br></br>
 \Steam\steamapps\common\Tabletop Simulator\Modding\Dice Templates</br></br></p>
